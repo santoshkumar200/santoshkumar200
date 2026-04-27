@@ -5,45 +5,50 @@
   <img src="https://img.shields.io/badge/Main_Project-Gamestorm_LTD-blue?style=for-the-badge" />
 </p>
 
-Professional Software Development Agency specializing in high-performance web systems, mobile applications, and immersive gaming platforms. We turn complex ideas into scalable, production-ready software.
+**SK PROJECTS** is a professional agency turning complex ideas into reality. We specialize in cutting-edge technology across Web, Mobile, and Hardware domains.
 
 ---
 
-### 🛠️ Our Tech Stack & Tools
+### 🚀 Our Specializations
+- 🌐 **Full-Stack Web Development:** Scalable web systems and monetization (AdSense/CPA).
+- 📱 **Mobile App Development:** Cross-platform high-performance apps using Flutter.
+- 🤖 **Arduino & Hardware Development:** Smart home automation, IoT, and embedded systems.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB3?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Expertise** | AdSense Optimization, CPA Marketing, Game Distribution, UI/UX Design (UE5) |
+| **Web & App** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB3?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-blue?style=flat) |
+| **Backend/DB** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🌍 [WorldConnect – Global Life Assistant](https://github.com/santoshkumar200/WorldConnect-Global-Life-Assistant)
-A comprehensive **28+ screen** Flutter application for emergency assistance, health tracking, and disaster alerts. Built with Firebase and Hive for seamless offline safety.
+A comprehensive **28+ screen** Flutter application for emergency, health, and disaster alerts.
 
 #### 🎮 [Gamestorm LTD](https://gamestormltd.com)
-Our flagship web platform featuring a library of 200+ high-graphics PC games, verified government job updates, and international scholarship opportunities.
+Our flagship PC gaming and jobs portal platform.
 
 ---
 
-### 📊 GitHub Analysis & Stats
+### 📊 Auto-Generated Language & Skill Stats
+*These stats update automatically based on the repositories I add.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumar200&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar200&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar200&layout=compact&theme=tokyonight" alt="Top Languages" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumar200&show_icons=true&theme=tokyonight&count_private=true" alt="Main Stats" height="200px" />
 </p>
 
 ---
 
 ### 🤝 Let's Collaborate
-We are open to new projects, partnerships, and tech discussions.
-
-- 🌐 **Official Website:** [gamestormltd.com](https://gamestormltd.com)
-- 💬 **Get in Touch:** [WhatsApp Us](https://wa.me/YOUR_NUMBER_HERE) 
-- 📧 **Email:** [skprojects.official@example.com]
+- 🌐 **Website:** [gamestormltd.com](https://gamestormltd.com)
+- 💬 **Get in Touch:** [WhatsApp Us](https://wa.me/03436770921) 
+- 📧 **Email:** [skprojects.gamestorm991@gmail.com]
 
 **"Turning complex ideas into scalable software solutions."** — *The SK PROJECTS Team*
